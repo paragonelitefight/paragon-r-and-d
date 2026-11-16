@@ -4,13 +4,15 @@
 
 Advanced fight equipment. Documented development.
 
-Paragon Elite Fight Group's research and product-development programme for boxing gloves and Brazilian jiu-jitsu equipment.
+Two projects. Two material architectures. One principle: ambitious design must eventually answer to physical testing.
 
-Our ambition is to pursue exceptional performance through explicit design requirements, prototype iteration and meaningful testing.
+Paragon Elite Fight Group's research and product-development programme explores boxing gloves and Brazilian jiu-jitsu equipment through detailed specifications, construction drawings and planned prototype validation.
 
 **Current stage: Research & Development / Prototype Development.**
 
-[Explore Paragon R&D on our website](https://paragonelitefight.com/pages/paragon-research-development)
+This describes the development programme, not confirmation that physical prototypes or completed test results exist.
+
+[Explore Paragon R&D](https://paragonelitefight.com/pages/paragon-research-development) · [Explore Paragon Technology](https://github.com/paragonelitefight/paragon-technology)
 
 ---
 
@@ -18,27 +20,63 @@ Our ambition is to pursue exceptional performance through explicit design requir
 
 ### ANTIGRAVITY SERIES · PRO BOXING GLOVE PROJECT
 
-A training-glove development project exploring hand fit, impact attenuation, wrist movement and serviceability.
+### Different materials. Different responsibilities. One integrated glove concept.
 
-The working specification proposes:
+What belongs inside a next-generation boxing glove?
 
-- Anatomical glove and attached-thumb geometry.
-- An auxetic-foam padding system.
-- An internal load-spreading element.
-- Directional wrist-support construction.
-- Internal lacing beneath a protective closure flap.
-- Ventilation and repair-oriented construction.
+For CÆSTUS ZERO, the working answer begins with an anatomical hand chamber, a continuous knuckle dome and a material architecture that assigns a specific role to each part of the glove.
 
-Planned validation includes impact, fatigue, compression-set and pressure-distribution testing.
+The specification proposes 16 oz and 18 oz professional training gloves for sparring and heavy-bag work. Competition approval is not claimed.
 
-### Technical documents
+### THE EXTERIOR / Purpose-zoned leather
+
+Rather than specifying one hide everywhere, the working design proposes:
+
+- **Full-grain, vegetable-retanned cowhide** for the striking face and main body.
+- **Lightweight kangaroo leather** for the backhand, side panels and cuff body, with fine calfskin specified as an alternative.
+- **Supple goatskin** for the palm and inner flex panels.
+- **Camel leather** for selected high-wear edges, piping and concealed wrist-band backing.
+- **A small, flush-set stingray cuff medallion** as a visual detail, kept away from intended face-contact surfaces.
+
+The objective is to explore a deliberate balance of flexibility, structural support, surface durability and component weight.
+
+These are proposed material selections, subject to sourcing, destination-market checks and prototype validation.
+
+### THE INTERIOR / An experimental impact architecture
+
+The working padding specification combines:
+
+- An **auxetic open-cell polyurethane crown block**.
+- A **rate-sensitive PORON XRD layer**.
+- A **formed EVA load-spreading element**.
+- A soft **open-cell polyurethane comfort layer**.
+- **Latex-foam backhand and side padding**.
+
+The auxetic structure is the central material investigation: a foam architecture designed to respond differently from conventional foam under compression.
+
+How this combination performs inside the actual glove must be established through prototype testing. Published findings about material samples are not measured results for CÆSTUS ZERO.
+
+### THE GEOMETRY / Shape before decoration
+
+The construction package explores:
+
+- A 22-degree pre-curved form.
+- An attached thumb patterned around a naturally closed fist.
+- A continuous rounded striking crown.
+- Directional “dart arc” wrist support.
+- Internal lacing beneath a wide protective closure flap.
+- Component-level weight targets and repair-oriented construction.
+
+The wrist concept explores controlled movement and directional restraint. It is not a demonstrated injury-prevention system.
+
+### OPEN THE TECHNICAL PACKAGE
 
 - [Boxing glove technical specification v1.0 · PDF · 22 pages](Boxing_Glove_Technical_Specification1.pdf)
 - [Companion workshop drawings · PDF · 17 pages](Boxing_Glove_Workshop_Drawings.pdf)
 
-**Document mapping:** CÆSTUS ZERO is the working presentation name for the Professional Sparring & Bag Glove specification v1.0 and its companion drawings. Original document titles and contents are retained.
+The documents include construction dimensions, material requirements, component mass targets and planned impact, fatigue and pressure-distribution testing.
 
-Intended use is training. Competition approval is not claimed.
+**Document mapping:** CÆSTUS ZERO is the working presentation name for the Professional Sparring & Bag Glove specification v1.0 and its companion drawings. Original document titles and contents remain unchanged.
 
 ---
 
@@ -46,63 +84,113 @@ Intended use is training. Competition approval is not claimed.
 
 ### ZERO-GRAVITY SERIES · HYBRID BJJ GI PROJECT
 
-A zoned gi concept that assigns different material and construction requirements to different garment regions.
+### A Brazilian jiu-jitsu gi designed as a map of different demands.
 
-The working package documents:
+A sleeve, a collar, a back panel and a trouser gusset do not perform the same job.
 
-- Articulated patterning for grappling positions.
-- Zoned fabrics for structure, mobility, ventilation and wear resistance.
-- Collar, cuff and waistband construction.
-- Size grading and prototype-development stages.
-- Planned laboratory, fit and athlete wear testing.
+UNTOUCHABLE NØ-G explores a zoned hybrid BJJ gi in which fabric, structure and movement requirements change across the garment.
 
-### Technical document
+The working specification targets training and open-rules use. It is deliberately not presented as an IBJJF-approved uniform.
 
-- [Hybrid BJJ gi tech pack · Rev A · PDF · 25 pages](KOMA_KMA-01_Gi_Tech_Pack_RevA.pdf)
+### THE FABRIC MAP / Seven material zones
 
-**Document mapping:** UNTOUCHABLE NØ-G is the working presentation name for PROJECT KOMA / KMA-01, Revision A. Original style codes and revision details remain in the PDF.
+The current tech pack specifies:
 
-The current specification targets training and open-rules use. It is not presented as an IBJJF-approved uniform.
+- **470 GSM horizontal sashiko** for the main jacket body.
+- **330 GSM UHMWPE-blend twill** for selected sleeve, outer-collar and knee zones.
+- **290 GSM double-face air-channel fabric** for the upper back and side strips.
+- **Stretch NYCO underarm gussets**.
+- **240 GSM Cordura NYCO stretch-ripstop trousers**.
+- **Four-way-stretch panels** at the crotch and behind the knees.
+- **Brushed inner-facing fabrics** at selected skin-contact areas.
+
+The grip-zone twill proposal includes 15% UHMWPE, with Dyneema or an equivalent material identified as a sourcing option subject to appropriate supply and licensing arrangements.
+
+These are specification targets, not confirmation of supplier partnerships or finished-garment performance.
+
+### THE PATTERN / Designed around grappling positions
+
+The proposed pattern is developed around seated guard and combat base, with pre-bent elbows and knees.
+
+The question is not simply how a gi looks while standing. It is how panels, seams and fabric allowances behave when the athlete folds, frames, rotates and changes position.
+
+### THE CONSTRUCTION / Structure and movement
+
+The working package combines:
+
+- A curved collar with a **density-zoned XLPE core** and brushed inner face.
+- A wide elastic waistband, internal gripper and textured flat drawcord.
+- A dedicated **lace garage**.
+- Closed-face fabric with internal air channels rather than open mesh panels.
+- Reinforced construction and articulated movement zones.
+- A **shot-weave colour proposal**, using different warp and weft colours for a woven-in visual effect.
+- No hard external fasteners or raised hard patches in the proposed construction.
+
+These choices express design intentions. Grip behaviour, mobility, abrasion resistance and comfort require assessment on actual samples.
+
+### TRACEABILITY AND MATERIAL RESEARCH
+
+The tech pack proposes a washable NFC tag for serial-number, care and production-batch information.
+
+This is a proposed garment component, not a claim that a connected production traceability service is already operating.
+
+Copper-containing yarns are included as an antimicrobial research direction. No infection-prevention or finished-garment antimicrobial benefit is established by the proposal.
+
+### OPEN THE TECHNICAL PACKAGE
+
+- [Hybrid Brazilian jiu-jitsu gi tech pack · Rev A · PDF · 25 pages](KOMA_KMA-01_Gi_Tech_Pack_RevA.pdf)
+
+The package documents materials, construction details, size grading, prototype stages, laboratory requirements and planned athlete wear testing.
+
+**Document mapping:** UNTOUCHABLE NØ-G is the working presentation name for PROJECT KOMA / KMA-01, Revision A. Original style codes and revision details remain visible in the PDF.
 
 ---
 
 ## FROM AMBITION TO EVIDENCE
 
-**Design → Prototype → Measure → Refine → Validate → Production decision**
+### Design → Prototype → Measure → Refine → Validate → Production decision
 
-These are development projects, not finished retail products.
+These projects are not finished retail products.
 
-Specifications describe design intentions, proposed construction and validation requirements. Test plans are not completed test results. Findings from material studies are not measured performance results for these projects.
+The next engineering task is to source materials, build samples, measure behaviour and record what changes.
 
-Materials, dimensions and construction targets may evolve during prototyping. Changes should be recorded in subsequent revisions.
+Planned validation is not completed testing. Material-study findings are not measured performance results for these projects.
+
+Comparative superiority, injury reduction, competition approval and production readiness are not established by publishing the documents.
 
 ### Open engineering clarification
 
-The glove documents state a 36 mm padding total, while the listed layers sum to 38 mm. This remains a clarification for prototype development, not a validated production tolerance.
+The glove documents state a 36 mm padding total, while the listed layers sum to 38 mm.
 
-### Validation boundaries
+This remains a clarification for prototype development, not a validated production tolerance. Construction changes should be documented in subsequent revisions.
 
-Performance, safety and antimicrobial statements inside the working documents require appropriate validation.
-
-Naming a test standard or material brand does not establish certification, supplier approval or a commercial partnership.
-
-Comparative superiority, injury reduction and production readiness are not established by publishing these documents.
+Naming a material brand or test standard does not establish certification, supplier approval or a commercial partnership.
 
 ---
 
-## DOCUMENT STATUS
+## PART OF A BROADER ENGINEERING PROGRAMME
 
-The supplied PDFs are shared with the brand owner's permission as working R&D documents.
+Paragon's software and information architecture is documented separately:
 
-Earlier confidentiality markings remain in some originals. Their inclusion in this repository is intentional.
+**[PARAGON TECHNOLOGY](https://github.com/paragonelitefight/paragon-technology)**
+
+Explore OhYeah quotation proofs, Cornerman evidence workflows, FightPulse publications, agent interfaces and the documented sixteen-component lifecycle map.
+
+Software implementation evidence is not evidence of physical equipment performance. The two programmes are connected by an approach to documentation, not interchangeable validation.
+
+---
+
+## DOCUMENT STATUS AND REUSE
+
+The PDFs are shared with the brand owner's permission as working R&D documents.
+
+Earlier confidentiality markings remain in some originals. Their publication here is intentional.
 
 Publication does not by itself grant a manufacturing or redistribution licence.
 
-CÆSTUS ZERO, UNTOUCHABLE NØ-G, ANTIGRAVITY SERIES and ZERO-GRAVITY SERIES are working presentation names.
+CÆSTUS ZERO, UNTOUCHABLE NØ-G, ANTIGRAVITY SERIES and ZERO-GRAVITY SERIES are working presentation names. Trademark availability has not been assessed.
 
-They do not imply physical antigravity, weightlessness or immunity from an opponent's grips. Trademark availability has not been assessed.
-
-This programme is separate from Paragon's FightPulse research-publication project.
+The names do not imply physical antigravity, weightlessness or immunity from an opponent's grips.
 
 ---
 
@@ -110,7 +198,8 @@ This programme is separate from Paragon's FightPulse research-publication projec
 
 Athens, Greece.
 
-[Website](https://paragonelitefight.com) · [R&D project page](https://paragonelitefight.com/pages/paragon-research-development)
+[Website](https://paragonelitefight.com) · [R&D programme](https://paragonelitefight.com/pages/paragon-research-development) · [Technology documentation](https://github.com/paragonelitefight/paragon-technology)
 
 Documentation baseline: 16 November 2026.
+
 This is a documentation date, not a physical test date.
