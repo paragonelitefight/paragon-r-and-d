@@ -1,5 +1,16 @@
 # PARAGON R&D
 
+> **Public documentation update — 19 November 2026**
+>
+> **Two equipment concepts. Inspectable working documents. A testable development path.**
+>
+> Start with the [research status and document-reading guide](RESEARCH_STATUS_2026-11-19.md), then inspect the original glove specification, workshop drawings and hybrid-gi tech pack linked below. This update changes presentation and navigation only: it does not revise the three PDFs, announce a completed prototype or add physical test results.
+>
+> The separate software programme now has a [GitHub documentation release v0.2.0](https://github.com/paragonelitefight/paragon-technology/releases/tag/v0.2.0) and a [version-specific Zenodo archive](https://doi.org/10.5281/zenodo.24366595). Those records document the technology programme, not equipment validation or a DOI for these designs. [Explore the browser-based Experimental Lab](https://paragonelitefight.com/experimental-lab) for bounded computational experiments; none simulates or certifies the performance of these gloves or garments.
+>
+> Original document identities, technical values, revision labels and reuse restrictions remain unchanged. The 16 November presentation below is retained in full; it is a dated baseline, not a claim of new measurements on 19 November.
+
+
 ### BEYOND CONVENTION. ENGINEERED TO BE PROVEN.
 
 Advanced fight equipment. Documented development.
